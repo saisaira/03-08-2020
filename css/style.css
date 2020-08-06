@@ -1,0 +1,22 @@
+.card{
+	border:2px solid #ddd;
+	background-color: #f4f4f4;
+	text-align: center;
+	width: 300px;
+	margin: 5px;
+
+}
+a{
+	color: #c45e45;
+}
+img{
+	width: 300px;
+}
+/*body{
+	background-image: url("../images/notvariables.png");
+	background-repeat: no-repeat;
+}*/
+.flex-parent{
+	display: flex;
+	flex-wrap: wrap;
+}
