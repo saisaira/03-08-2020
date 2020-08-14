@@ -1,0 +1,42 @@
+{
+	"details":{
+		"name":"Apssdc",
+		"age":5,
+		"courses":["Webdesign using ReactJs","Python","Data Analysis","machine learning"]
+	},
+	"trainers":[
+		{
+			"name":"N.Rajesh",
+			"experience": "5 years",
+			"designation":"Multi-skill Trainer",
+			"teaching":["scracth","android","Web Development","Automation in UI"]
+		},
+		{
+			"name":"V.Gayathri Devi",
+			"experience": "3 years",
+			"designation":"Multi-skill Trainer",
+			"teaching":["android","Web Development","Progressive web apps","MIT App Inventor"]
+
+		},
+		{
+			"name":"N.Surya Narayana",
+			"experience": "4 years",
+			"designation":"Multi-skill Trainer",
+			"teaching":["scracth","android","Web Development","Progressive web apps","MIT App Inventor"]
+		},
+		{
+			"name":"K.Apparao Swami",
+			"experience": "4 years",
+			"designation":"Multi-skill Trainer",
+			"teaching":["android","Web Development","Progressive web apps","MIT App Inventor"]
+
+		},
+		{
+			"name":"D.Sairam",
+			"experience": "5 years",
+			"designation":"Multi-skill Trainer",
+			"teaching":["scracth","android","Web Development","Progressive web apps","MIT App Inventor"]
+		}
+
+	]
+}
