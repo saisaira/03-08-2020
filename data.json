@@ -2,6 +2,7 @@
 	"details":{
 		"name":"Apssdc",
 		"age":5,
+		"picture":"images/notvariables.png",
 		"courses":["Webdesign using ReactJs","Python","Data Analysis","machine learning"]
 	},
 	"trainers":[
